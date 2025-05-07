@@ -8,7 +8,9 @@ Here is how to recreate this on a Mac
 
 ## Create the Virtual Environment
 
+```
 python3 -m venv .venv
+```
 
 ## Activate the Virtual Environment
 
